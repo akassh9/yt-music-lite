@@ -46,3 +46,7 @@ You only need the Xcode Command Line Tools. The build is arm64-only (Apple silic
 - Songs (audio + artwork) are cheaper than music videos, which still get decoded while the window is hidden.
 - After an auto-reload, a shuffled queue continues in playlist order, and a radio mix is regenerated from the
   current song.
+
+## License
+
+MIT. See [LICENSE](LICENSE). Not affiliated with YouTube or Google.
